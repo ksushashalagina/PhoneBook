@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.model.SubscriberTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-12-15T11:58:19.419Z" hostname="DESKTOP-9E4V3QM" time="0.022">
+  <properties/>
+  <testcase name="testContainsSearch()" classname="com.phonebook.model.SubscriberTest" time="0.005"/>
+  <testcase name="testInvalidSubscriber()" classname="com.phonebook.model.SubscriberTest" time="0.002"/>
+  <testcase name="testSearchPartialMatches()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testPhoneNumberManagement()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testSearchByPhoneType()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testCompareTo()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testSubscriberCreation()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testEmptySearch()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <testcase name="testEqualsAndHashCode()" classname="com.phonebook.model.SubscriberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

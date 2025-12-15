@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.util.FileUtilTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-12-15T11:58:20.192Z" hostname="DESKTOP-9E4V3QM" time="0.052">
+  <properties/>
+  <testcase name="testFormatFileSize()" classname="com.phonebook.util.FileUtilTest" time="0.008"/>
+  <testcase name="testNonExistentDirectory()" classname="com.phonebook.util.FileUtilTest" time="0.007"/>
+  <testcase name="testFormatFileSizeConsistency()" classname="com.phonebook.util.FileUtilTest" time="0.003"/>
+  <testcase name="testCreateDirectoryIfNotExists()" classname="com.phonebook.util.FileUtilTest" time="0.003"/>
+  <testcase name="testFormatFileSizeEdgeCases()" classname="com.phonebook.util.FileUtilTest" time="0.02"/>
+  <testcase name="testFileExists()" classname="com.phonebook.util.FileUtilTest" time="0.002"/>
+  <testcase name="testGetFileNameWithoutExtension()" classname="com.phonebook.util.FileUtilTest" time="0.002"/>
+  <testcase name="testGetFileExtension()" classname="com.phonebook.util.FileUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

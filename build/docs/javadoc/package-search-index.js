@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.phonebook"},{"l":"com.phonebook.gui"},{"l":"com.phonebook.model"},{"l":"com.phonebook.service"},{"l":"com.phonebook.util"}];updateSearchResults();

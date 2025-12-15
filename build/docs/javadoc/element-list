@@ -1,0 +1,5 @@
+com.phonebook
+com.phonebook.gui
+com.phonebook.model
+com.phonebook.service
+com.phonebook.util

@@ -1,0 +1,46 @@
+2025-12-15 14:59:24.091 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Starting Phone Book Application GUI
+2025-12-15 14:59:24.098 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Loading subscribers from file: phonebook.dat
+2025-12-15 14:59:24.098 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - File not found, returning empty list
+2025-12-15 14:59:24.099 [JavaFX Application Thread] DEBUG com.phonebook.service.PhoneBookService - Subscribers sorted
+2025-12-15 14:59:24.099 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Data loaded successfully. Total subscribers: 0
+2025-12-15 14:59:24.769 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Application started successfully
+2025-12-15 14:59:24.769 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Phone Book GUI initialized successfully
+2025-12-15 14:59:56.833 [JavaFX Application Thread] DEBUG com.phonebook.service.PhoneBookService - Subscribers sorted
+2025-12-15 14:59:56.834 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Saving 1 subscribers to file: phonebook.dat
+2025-12-15 14:59:56.845 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Subscribers saved successfully
+2025-12-15 14:59:56.847 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Data saved successfully. Total subscribers: 1
+2025-12-15 14:59:56.847 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Subscriber added: Шалагина Ксения Андреевна
+2025-12-15 14:59:56.882 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Selected: Шалагина Ксения Андреевна
+2025-12-15 14:59:56.883 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Selected: Шалагина Ксения Андреевна
+2025-12-15 14:59:56.883 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Subscriber added: Шалагина Ксения Андреевна
+2025-12-15 15:00:14.400 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Saving 1 subscribers to file: phonebook.dat
+2025-12-15 15:00:14.402 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Subscribers saved successfully
+2025-12-15 15:00:14.403 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Data saved successfully. Total subscribers: 1
+2025-12-15 15:00:14.403 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Phone number added to Шалагина Ксения Андреевна: +79999999999 (Mobile)
+2025-12-15 15:00:14.403 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Selected: Шалагина Ксения Андреевна
+2025-12-15 15:00:14.405 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Phone number added to: Шалагина Ксения Андреевна
+2025-12-15 15:00:35.364 [JavaFX Application Thread] DEBUG com.phonebook.service.PhoneBookService - Subscribers sorted
+2025-12-15 15:00:35.364 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Saving 2 subscribers to file: phonebook.dat
+2025-12-15 15:00:35.366 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Subscribers saved successfully
+2025-12-15 15:00:35.366 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Data saved successfully. Total subscribers: 2
+2025-12-15 15:00:35.366 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Subscriber added: Иванов Иван Иванович
+2025-12-15 15:00:35.394 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Selected: Иванов Иван Иванович
+2025-12-15 15:00:35.394 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Selected: Иванов Иван Иванович
+2025-12-15 15:00:35.395 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Subscriber added: Иванов Иван Иванович
+2025-12-15 15:00:37.983 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Search 'Ш' found 1 subscribers
+2025-12-15 15:00:37.985 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Found 1 subscribers
+2025-12-15 15:00:38.124 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Search 'Ша' found 1 subscribers
+2025-12-15 15:00:38.125 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Found 1 subscribers
+2025-12-15 15:00:38.284 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Search 'Шал' found 1 subscribers
+2025-12-15 15:00:38.285 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Found 1 subscribers
+2025-12-15 15:00:38.387 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Search 'Шала' found 1 subscribers
+2025-12-15 15:00:38.388 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Found 1 subscribers
+2025-12-15 15:00:38.685 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Search 'Шалаг' found 1 subscribers
+2025-12-15 15:00:38.687 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Found 1 subscribers
+2025-12-15 15:00:42.882 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Font size: 11px
+2025-12-15 15:00:43.909 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Font size: 12px
+2025-12-15 15:00:53.224 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Closing Phone Book Application
+2025-12-15 15:00:53.225 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Saving 2 subscribers to file: phonebook.dat
+2025-12-15 15:00:53.226 [JavaFX Application Thread] INFO  com.phonebook.service.FileDataService - Subscribers saved successfully
+2025-12-15 15:00:53.228 [JavaFX Application Thread] INFO  com.phonebook.service.PhoneBookService - Data saved successfully. Total subscribers: 2
+2025-12-15 15:00:53.228 [JavaFX Application Thread] INFO  com.phonebook.gui.PhoneBookGUI - Status update: Data saved successfully
